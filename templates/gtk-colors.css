@@ -2,6 +2,7 @@
 * GTK Colors
 * Generated with Matugen
 */
+@import 'colors.css';
 
 @define-color accent_color {{colors.primary_fixed_dim.default.hex}};
 @define-color accent_fg_color {{colors.on_primary_fixed.default.hex}};
